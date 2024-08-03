@@ -1,0 +1,19 @@
+#calculate-form{
+    display: flex;
+    gap: 20px;
+}
+#calculate-form{
+    padding-left: 550px;
+    padding-top: 50px;
+}
+#result{
+    text-align: center;
+}
+.heading{
+    padding-top:200px;
+    padding-left: 500px;
+}
+
+
+
+
